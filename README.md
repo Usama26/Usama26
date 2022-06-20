@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Usama26&repo=github-readme-stats)](https://github.com/Usama26/github-readme-stats)
 
 <!--
 **Usama26/Usama26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
